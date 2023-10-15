@@ -1,0 +1,3 @@
+[submodule "ext/mkxp-z"]
+	path = ext/mkxp-z
+	url = https://github.com/fcorso2016/mkxp-z.git
