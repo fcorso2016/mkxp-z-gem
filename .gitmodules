@@ -1,3 +1,3 @@
-[submodule "ext/mkxp-z"]
-	path = ext/mkxp-z
+[submodule "ext/mkxp_z"]
+	path = ext/mkxp_z
 	url = https://github.com/fcorso2016/mkxp-z.git
